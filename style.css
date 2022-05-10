@@ -1,0 +1,16 @@
+.name-container {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: rosybrown;
+    margin: 10px;
+    justify-content: left;
+}
+
+.button{
+    
+}
+
+.book-title{
+    padding: 10px;
+}
